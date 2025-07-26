@@ -88,6 +88,7 @@
 
 #### 🔹 **JavaScript in React Context (Bonus Topics)**
 
+
 * Virtual DOM
 * React State and JS
 * JS Events vs React Synthetic Events
